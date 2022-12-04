@@ -1,0 +1,9 @@
+In this meeting we discussed what should we be doing in assignment 3.
+	=> We researched different open source projects
+	=> Analysed what projects would be suitable for us depending on the requirements we are given
+	=> Each member selected a project on which they would work on
+	=> Discussed among each other our selected projects
+
+Discussed what should be done before our next meeting
+	=> Main goals were assignment 3 should be completed to maximum extent
+	=> Assignment 4 should be read and understood to maximum extent 
