@@ -1,0 +1,14 @@
+﻿SQE meeting notes
+During our first meeting, we opened Assignments three and four. We read the instructions carefully and then decided to adopt some strategies that will be helpful in this assignment.
+As assignment three revolves around the exploration part, We focused to improve the research part and tried to grasp more knowledge about the concepts.
+
+
+Strategies and Techniques we thought can come in handy : 
+* Each member should pick two out of six concepts and try to explore and gather enough knowledge about them and once he gets done he/she would be sharing the same knowledge with the other two members.
+* Important links must be shared in our Whatsapp group.
+* Knowledge has no boundaries so we should not only be restricted to our team we can expand our knowledge and ask other teams about their research and how they are working on them.
+* The more knowledge we can gain, more it will become easy for us to work on open-source projects.
+* Each member of the team will share his exploration (on the open-source project) with the other two members for better understanding.
+
+
+Lastly, a deadline was set for this assignment, and recommendations for the next meeting were discussed.
